@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\day 5\bin\Debug\net10.0\day 5.exe
+C:\Users\Laptop\Desktop\day 5\bin\Debug\net10.0\day 5.deps.json
+C:\Users\Laptop\Desktop\day 5\bin\Debug\net10.0\day 5.runtimeconfig.json
+C:\Users\Laptop\Desktop\day 5\bin\Debug\net10.0\day 5.dll
+C:\Users\Laptop\Desktop\day 5\bin\Debug\net10.0\day 5.pdb
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.dll
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\refint\day 5.dll
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.pdb
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\day 5.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\day 5\obj\Debug\net10.0\ref\day 5.dll
